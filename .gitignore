@@ -2,27 +2,27 @@
 
 # dependencies
 /backend/node_modules
-/frontend/node_modules
-/frontend/.pnp
-/frontend/.pnp.js
+/frontend111/node_modules
+/frontend111/.pnp
+/frontend111/.pnp.js
 
 .vscode/
 
 # testing
-/coverage
+/frontend111/coverage
 
 # production
-/build
+/frontend111/build
 
 # misc
-/frontend/.DS_Store
-/frontend/.env.local
-/frontend/.env.development.local
-/frontend/.env.test.local
-/frontend/.env.production.local
+/frontend111/.DS_Store
+/frontend111/.env.local
+/frontend111/.env.development.local
+/frontend111/.env.test.local
+/frontend111/.env.production.local
 
 npm-debug.log*
-/frontend/yarn-debug.log*
-/frontend/yarn-error.log*
+/frontend111/yarn-debug.log*
+/frontend111/yarn-error.log*
 
 
